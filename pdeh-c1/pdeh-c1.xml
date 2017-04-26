@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -6,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TESTDe Ecclesiastica Hierarchia, Caput secundum</title>
+        <title>De Ecclesiastica Hierarchia, Caput secundum</title>
         <author ref="#Dionysius">Pseudo-Dionysius</author>
         <editor/>
         <respStmt>
@@ -14,7 +13,7 @@
           <resp when="2006">Digital text preparation </resp>
         </respStmt>
         <respStmt>
-          <name>Jo&#xE3;o Rebalde</name>
+          <name>João Rebalde</name>
           <resp>TEI Encoder</resp>
         </respStmt>
         <respStmt>
@@ -41,8 +40,8 @@
           <witness/>
         </listWit>
         <listBibl>
-          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposi&#xE7;&#xE3;o sobre os livros do
-            Beato Dion&#xED;sio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do
+            Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
