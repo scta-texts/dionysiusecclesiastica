@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Ecclesiastica Hierarchia, Caput quartum</title>
+        <author ref="#Dionysius">Pseudo-Dionysius</author>
+        <editor/>
+        <respStmt>
+          <name>Marco Toste</name>
+          <resp when="2006">Digital text preparation </resp>
+        </respStmt>
+        <respStmt>
+          <name>João Rebalde</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-07">July 07, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-07-07">July 07, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do
+            Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-07" status="draft" n="0.0.0-dev">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pdeh-c4">
+        <head xml:id="pdeh-c4-Hd1e101">De Ecclesiastica Hierarchia, Caput quartum</head>
+        <p xml:id="pdeh-c4-d1e129">
+          Tante sanctissime congregationis sunt, et ita pulchre intelligibiles visiones, ad unum
+          nostri, ut multotiens diximus, ierarchice sancte operantes conmunionem et congregationem.
+          Sed est huic coordinata altera perfectionis opera; unguenti perfectionem ipsam duces
+          nostri nominant. Partes igitur eius in ordine secundum sanctas ymagines inspicientes, ita
+          ad unum ipsius per partes ierarchicis contemplationibus sursumagemur. Secundum eundem
+          congregationis modum inperfectorum solvuntur ordines, precedentibus videlicet et
+          ierarchica circumitione benevolente ad omnem sanctum chorum, et psalmorum decantatione et
+          divinissimorum eloquiorum lectione; postea unguentum ierarcha sumens superponit divino
+          altari circumvelatum duodecim alis sanctis, clamantibus cunctis sanctissima voce sanctam
+          inspirationis Deo acceptorum prophetarum melodiam et super ipsum sanctam orationem
+          adinplens in sanctissimis sanctificandorum perfectionibus ipso utitur ad omnem fere
+          ierarchicam perfectionis operationem.
+        </p>
+        <p xml:id="pdeh-c4-d1e132">
+          Igitur introductiva quidem perfective huius sanctificationis sursumactio, per ea que
+          fiunt sancte in divino unguento, illud, ut arbitror, monstrat, circumvelare divinorum
+          virorum quod est secundum mentem, sanctum et bene olens, que divine precipit sanctis
+          viris, non apparentes habere in gloria vana secundum virtutem occulti Dei pulchras et bene
+          olentes assimilationes. Nam inmaculati sunt Dei occculti et super mentem bene olentes
+          decores et intelligibiliter manifestantur solis sanctis, conformes habere volentes,
+          secundum virtutem, in animabus incorruptas ymagines. Nam quod est deiformis virtutis
+          incircunscriptum bene inmitans insigne, aspiciens ad illam intelligibilem et beneolentem
+          pulchritudinem, ita sibi ipsi conformat et conponit ad optimam inmitationem. Et
+          quemadmodum in sensibilibus ymaginibus si ad architepicam scriptor indeclinabiliter
+          inspicit, ad nichil aliud visibilium tractus, aut secundum aliquid divisus, ipsum ilium
+          qui est scriptus, si est fas dicere, duplicabit et monstrabit alterutrum in alterutro
+          preter substantie differentiam, ita amantibus pulchritudinem et in mente scribentibus ad
+          beneolentem et occultam pulchritudinem intenta et indeclinabilis contemplatio non erroneam
+          et deiformissimam dabit similitudinem.
+        </p>
+
+        <p xml:id="pdeh-c4-d1e135">
+          Convenienter igitur ad supersubstantialiter beneolentem et intelligibilem decorem divini
+          scriptores intellectuale ipsorum inconversibiliter formantes, nullam faciunt in ipsis ad
+          Dei inmitationem virtutum, ad hoc ut videantur secundum eloquium bominibus. Sed sancte
+          inspiciunt sicut in ymaginem divino unguento ea que sunt Ecclesie sanctissima
+          circumvelata. Propter quod et ipsi, quod est secundum virtutem sanctum et deiformissimum
+          intra mentem Dominum inmitantem et a Deo scriptam sancte circumvelantes ad solum
+          respiciunt archetipum intellectum. Neque enim invisibiles solum dissimilibus sed neque
+          ipsi ad illorum trahuntur visionem. Unde secundum consequentiam sui ipsorum nec
+          apparentiam sui ipsorum vane pulchra et iusta, sed vere existentia ament nec ad opinionem
+          respiciunt a multitudine irrationabiliter beatificatam. Sed pulchrum aut malum in se ipso
+          ad Dei inmitationem iudicantes, insignia divina thearchicissimi sunt boni odoris. Qui in
+          se ipso verum bene olens habens, ad hoc quod multis dissimiliter apparet, non convertitur,
+          veris ipsis ymaginibus informans non fictum.
+        </p>
+        <p xml:id="pdeh-c4-d1e138">
+          Age igitur de cetero quoniam exteriorem decorem conspeximus pulchre huius
+          sanctificationis, ad diviniorem ipsius respiciamus pulchritudinem in se ipsa ipsam
+          revelatam velaminibus conspicientes, beatam resplendere facientem a se ipsa claritatem et
+          non velato intellectualibus bono odore nos adimplentem. Neque enim apparens unguenti
+          perfectionis operatio, his qui sunt circa Ierarcham, est inconmunicabilis aut invisibilis,
+          sed e contrario usque ad ipsos perveniens et stare faciens eam que super multos
+          contemplationem, ab ipsis sancte circunvelatur et a multitudine ierarchice distinguuntur.
+          Est enim divinis viris sanctissimorum radius, sicut cognatis intelligibilis munde et
+          inmediate elucens, et intellectuales ipsorum susceptiones non circunvelate bene olere
+          faciens, ad subiectum iam non similiter procedit, sed ab ipsis sicut occulti
+          intelligibilis contemplatoribus inegressibiliter (ut a dissimilibus non contaminetur) sub
+          alatis enigmatibus cooperitur per que sancta enigmata subiectorum bene ordinati ordines
+          sursumaguntur ad sanctam secundum ipsos proportionem.
+        </p>
+        <!-- this massage seems missing <p>
+          Igitur est quidem, ut dixi, nunc laudata a nobis sancta perfectionis operatio,
+          perfectivi ierarchicorum ordinis et virtutis. Propter quod, et hanc divini duces nostri
+          sicut coordinatam congregationis sancte perfectioni et idem operantem, eisdem ymaginibus
+          et in multis et misticis ornatibus et decantationibus ordinaverunt. Et Ierarcham quidem
+          similiter videbit a diviniore loco pulchrum bonum odorem ad sequentia sanctam proferentem
+          et resolutione ad ipsum docentem divinorum participationem, universis quidem sanctis
+          ingigni secundum dignitatem, non minorabilem autem esse et inmobilem omnino et intra
+          proprietatem secundum divinam collocationem inconmunicabiliter stantem.
+        </p> -->
+        <p xml:id="pdeh-c4-d1e144">
+          Equaliter autem rursus eloquiorum ode et lectiones inperfectos quidem educunt ad vitam
+          ferentem filiorum positionem, conversionem autem sanctam faciunt inmunde vexatorum.
+          Auferunt autem contrarium timorem et attractionem ex timide vexatis quod est deiformis
+          habitus et virtutis sunmum iuxta proportionem suam ipsis monstrantes. Secundum quam
+          expellunt magis ipsi contrarias virtutes. Et aliorum medicine magisterium obtinebunt ad
+          Dei inmitationem, inmobile quidem ex propriis bonis, adversus autem contrarios tumultus
+          activum non habentes solum set et dantes. Hiis autem qui ad mentem sanctam ex peioribus
+          transierunt, habitum sanctum inponunt, ut non rursus a malitia capiantur. Illos autem qui
+          non sunt omnino casti perfecte mundant. Sanctos autem agunt ad divinas ymagines et
+          inspectiones ipsorum et coniunctiones. Cibant autem sanctos in beatis et intelligibilibus
+          visionibus adinplentes uniforme ipsorum uno et unientes. Quid autem? Nunquid et non omnino
+          mundos ordines, quorum iam mentionem fecimus, munde solvit, secundum eundem congregationis
+          modum presens nunc sancta perfectionis operatio, a solis sanctis ymaginibus visa et a
+          solis sanctissimis inmediate ierarchicis sursumactionibus inspecta et sanctificata?
+        </p>
+        <p xml:id="pdeh-c4-d1e147">
+          Hec igitur, etc. usque ad illud: Igitur unguenti, etc., talis est sensus: Ea que
+          multotiens diximus, iterum repetere nolumus quod esset superfluum eisdem maxime verbis.
+          Igitur attendentes quod Ierarcha .XII. alis sanctum crisma cooperit et sic consecratur,
+          dicimus quod huius rei ista est theoria, videlicet quod crisma continet multas materias
+          aromaticas que se olfacientes grata odoris suavitate afficiunt, secundum quod magis vel
+          minus ipsa suavitate participant. Unde dicimus quod sanctum crisma dominum Ihesum
+          significat mentes nostras spiritualis delectationis influitionibus adimplentem. Si enim
+          sensibilium aromatum susceptio moderata vim olfactivam nostram sanam delectabiliter
+          refovet, pariter et intellectualem sensum nostrum spiritualis suavitatis delectationum ab
+          appetitu inordinato purgatum secundum facultatem nobis divinitus indultam, susceptio
+          divini boni odoris sancta delectatione et divinissimo alimento replebit.
+        </p>
+        <p xml:id="pdeh-c4-d1e150">
+          Igitur unguenti significativa conpositio sicut informatione non formabilium ipsum nobis
+          describit Ihesum fontanam existentem copiam divinarum beneolentium susceptionum
+          proportionibus ierarchicis ad deiformissimam intellectualium reddentes divinissimas
+          fragrantias, inquibus mentes suaviter delectate et sanctis susceptionibus adimplete
+          alimento intelligibili utuntur, scilicet introitu beneolentium ad intellectuale ipsorum
+          secundum divinam participationem. Est autem, ut reor, manifestum quod substantiis quo sunt
+          super nos, sicut divinioribus, fontani boni odoris redditio propinquior est quodam modo et
+          magis se ipsam manifestat et distribuit ad deiformissimum ipsorum et bene habens secundum
+          mentem susceptive virtutis copiose supermanans et multipliciter intrans. Subiectis autem
+          intellectualibus, et non similiter susceptibilibus, supremam que est super virtutem,
+          inmaculate abscondens visionem et participationem proportionalibus participantium
+          fragrantiis in conmensuratione ierarchica distribuitur.
+        </p>
+        <p xml:id="pdeh-c4-d1e153">
+          Igitur sanctarum substantiarum super nos existentium seraphin ordo tantum superpositus
+          in duodenario alarum significatur circa Ihesum stans et collocatus sanetissimis visionibus
+          ipsius, sicut est fas, intuitum figens et intelligibili distributione sancte in
+          castissimis susceptionibus adimpletus et multum laudabilem, ut sensibiliter dicatur, non
+          tacentibus buccis clamans theologiam. Nam sancta supermundanarum mentium cognitio et
+          infatigabilis est et indesinentem habet divinum amorem et ponitur super malitiam universam
+          et oblivionem. Unde, ut extimo, non tacens clamor significat eternam ipsorum et
+          intransmutabilem in fortitudine omni et gratiarum actione divinorum scientiam et
+          intellectum. Igitur incorporales quidem seraphin proprietates in eloquiis sensibilibus
+          ymaginibus intelligibilium manifestativis sancte descriptas, in ornatibus celestium
+          Ierarchiarum, sicut arbitror, bene conspeximus et tuis intellectualibus oculis
+          demonstravimus. Tanien quoniam et nunc hii qui circa Ierarcham sancte stant, ipsum illum
+          figurant supremum ornatum in compendio, et nunc in materialissimis visionibus
+          deiformissimam ipsorum claritatem videamus.
+        </p>
+        <p xml:id="pdeh-c4-d1e156">
+          Igitur infinitas quidem vultuum ipsorum et multiplicitas pedum manifestativum est, ut
+          extimo, ipsorum proprietatis multum videntis ad divinissimas illuminationes et semper
+          mobilis et multum ambulabilis intellectuum divinorum bonorum. Alarum autem sicut eloquia
+          dicunt, sextuplam positionem non numerum sanctum significare puto, secundum quod videtur
+          aliis, sed quod prima et media et ultima intellectualium et deiformium virtutum ipsius
+          existentis circa Deum supreme substantie et ordinis sursumactiva et absoluta perfecte sunt
+          et supermundana. Unde eloquiorum sanctissima sapientia alarum formationem describens circa
+          vultus et media et pedes ipsorum ponit alas, universale alarum ipsorum significans et
+          largissimum virtutis sursumactione ad vere existens. Si autem vultus et pedes velant et
+          solis volant mediis alis intende quod supremarum substantiarum tantum elevatus ordo
+          reverens est circa intellectibus secundum altiora et profundiora et mediis alis in
+          conversatione ad visionem sursumagitur divinis legibus supponens propriam vitam et ab
+          ipsis intellectualiter dispositus ad sui ipsius cognitionem.
+        </p>
+        <p xml:id="pdeh-c4-d1e159">
+          Quod autem eloquiis dictum est quod clamat alter ad alterum, illud reor monstrare quod
+          de intellectibus ipsorum inspectivis sibi invicem copiose tradunt. Et hoc autem sancta
+          dignabimur memoria quod eloquiorum ebrea vox secundum manifestativam nominationem vocat
+          seraphyn sanctissimas substantias, ex hoc quod sunt ignee et superferventes secundum
+          divinam et inmobilem vitam. Si igitur sicut hebreorum vocem interpretantes dicunt,
+          divinissimi seraphin incendentes et calefacientes a theologia nominati sunt, manifestativo
+          substantialis ipsorum habitus nomine, divini unguenti secundum significativam ymaginum
+          descriptionem virtutes habent sursummoventes ad manifestationem ipsarum et magis
+          operantium fragrantiarum distributionem evocantes. Etenim substantia super mentem
+          beneolens ab igneis et mundissimis mentibus ad manifestationem sursummoveri diligit. Et
+          divinas ipsius inspirationes in divinissimis distributionibus donat, ipsam ita
+          supermundane evocantibus.
+        </p>
+        <p xml:id="pdeh-c4-d1e163">
+          Igitur divinissimus supercelestium substantiarum ordo non ignoravit thearchicissimum
+          Ihesum, ad hoc ut sanctificaretur, descendisse. Intelligit autem sancte ipsum in nostris
+          se ipsum submittentem propter divinam et ineffabilem bonitatem et a patre et a se ipso et
+          spiritu (ut decet hominem) sanctificatum, videns proprium principium. In quibus quidem
+          thearchice operatur secundum substantiam invariabile habens. Unde sanctorum signorum
+          traditio sanctificato divino unguento seraphyn apponit, invariabilem sciens et describens
+          Christum in totali secundum nos inhumanatione ad veritatem. Et adhuc divinius, divino
+          unguento utitur ad omnis sancti perfectionis operationem, manifeste innuens, secundum
+          eloquium, sanctificantem et sanctificatum, sicut semper eundem sibi ipsi secundum omnem
+          thearchicam boni operationem. Propter quod et Dei generationis perfectivum donum et gratia
+          in unguenti perficitur divinissimis perfectionibus. Unde, sicut reor, et mundativo
+          baptismo unguentum in cruciformibus missionibus superfundens Ierarcha sub visum agit
+          contemplativis oculis usque et ad ipsam mortem per crucem Ihesum pro nostra Dei
+          generatione descendentem ipso divino et inconprehensibili descensu eos qui in mortem
+          ipsius secundum occultum verbum baptizantur, ex corruptive mortis vetere absorptione
+          benigne avellentem et renovantem ad divinam et eternam essentiam. At vero et ipsi profecto
+          sanctissima Dei generationis perfectione, thearchici spiritus snperadventum unguenti donat
+          perfectiva unctio, subfigurante, ut reor, sancta signorum ymaginatione, ab ipso propter
+          nos, ut decet hominem, per thearchicum spiritum sanctificato invariabili substantialis
+          deitatis habitu divinissimum spiritum donatum. Et hoc autem ierarchice intende quod et
+          divini altaris sanctam perfectionis sanctissimarum perfectionum legislatio sanctissimi
+          unguenti perficit sanctissimis infusionibus.
+        </p>
+        <p xml:id="pdeh-c4-d1e166">
+          Est autem supersubstantialis et supercelestis hec divina operatio omnis divine nostre
+          sanctificationis principium et substantia et perfectiva virtus. Si enim est divinissimum
+          nostrum altare Ihesus qui est thearchica divinarum mentium sanctificatio, in quo secundum
+          eloquium sanctificati et mistica holocausta facti accessum habemus, supermundanis oculis
+          inspiciamus ipsum divinissimum altare, in quo qui perficiuntur, perficiuntur et
+          sanctificantur ab ipso divinissimo unguento perfectum. Sanctificat enim propter nos se
+          ipsum sanctissimum Ihesus et omni nos sanctificatione implet in ipso Dei perfectionibus
+          dispensatorie ad nos sicut a Deo genitos de cetero benefice transeuntibus. Unde, sicut
+          reor, secundum intellectum ierarchicum, ut est a Deo traditum, divine nostre Ierarchie
+          duces, venerandissimam istam sanctificationem unguenti perfectionem ex re perfecta
+          realiter nominant, sicut si aliquis dicat Dei perfectionem alterutro intellectu, divinam
+          ipsis perfectionis operationem laudantes. Est enim ipsius perfectio et propter nos, ut
+          decet hominem, sanctificari et deifice universa perficere et sanctificare ea que
+          perficiuntur. Sanctam autem inspirationis Deo acceptorum prophetarum melodiam dicunt hii
+          qui sunt hebreorum scientes laudem Dei monstrare aut laudare Deum. Universa sancta igitur
+          Dei apparitione et divina operatione in varia conpositione ierarchicorum signorum sancte
+          scripta non inconveniens est memorare a Deo motum prophetarum ymnum. Docet enim et
+          religiose simul, ut decet sanctos, laudibus sanctis digna esse deifica beneficia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

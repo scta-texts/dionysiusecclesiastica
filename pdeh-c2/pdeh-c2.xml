@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Ecclesiastica Hierarchia, Caput secundum</title>
+        <author ref="#Dionysius">Pseudo Dionysius</author>
+        <editor/>
+        <respStmt>
+          <name>Marco Toste</name>
+          <resp when="2006">Digital text preparation </resp>
+        </respStmt>
+        <respStmt>
+          <name>João Rebalde</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-07">July 07, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-07-07">July 07, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do
+            Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-07" status="draft" n="0.0.0-dev">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pdeh-c2">
+        <head xml:id="pdeh-c2-Hd1e101">De Ecclesiastica Hierarchia, Caput secundum</head>
+        <p xml:id="pdeh-c2-d1e129">
+          Dictum est igitur a nobis sancte quod hec est nostre Ierarchie intentio ad Deum nostra,
+          ut est possibile, assimilatio et unitio. Hanc autem, sicut divina docent eloquia,
+          venerandissimorum preceptorum dilectionibus et sanctis operationibus solum consequemur.
+          Servabit enim, dicit, diligens me sermonem meum et pater meus diliget ipsum et ad ipsum
+          veniemus et mansionem apud eum faciemus. Igitur quod est principium venerandissimorum
+          preceptorum sancte operationis? Quod ad aliarum sanctarum locutionum et sanctificationum
+          susceptionem opportunissime format animales nostros habitus, quod ad supercelestis finis
+          sursumactionem nos conducit, quod sanctam et divinissimam nostram regenerationem tradit.
+          Sicut enim nobilis dux noster dixit, secundum mentem ad divina primus motus dilectio est
+          Dei. Sancte vero dilectionis que est ad sanctam operationem divinorum preceptorum,
+          pincipalissimus processus est essendi divine ineffabilissima dispensatio. Si enim essendi
+          divine est divina generatio, nequaquam aliquid noscat a Deo traditorum, neque etiam
+          operetur qui neque esse in Deo habuit. Annon et nobis, dicimus, existere convenit primum,
+          operari postea ea que sunt secundum nos? Sicut quod nullo modo est, neque motum sed neque
+          essentiam habet. Illud vero quod aliquo modo est, illa solum operatur aut patitur in
+          quibus esse natum est. Sed hoc quidem, sicut arbitror, planum est.
+        </p>
+        <p xml:id="pdeh-c2-d1e132">
+          Consequenter autem divina Dei generationis inspiciemus signa. Et michi nullus imperfectus
+          ad visionem eat. Etenim in splendoribus quos sol parit, infirmis pupillis intuitum figere
+          non est sine periculo, neque ad ea que sunt super nos conari, est sine lesione, si vera
+          est secundum legem ierarchia, Ozian quidem avertens quoniam sanctis manum apposuit; Chore
+          vero, quoniam hiis sanctis que erant super ipsum; Nadab autem, quoniam propriis inmunde
+          abusus est. Ierarcha quidem sempter per hoc quod se Deo assimilet, cunctos homines volens
+          salvari et ad cognitionem veritatis venire, predicat omnibus ea que sunt vere evangelia,
+          Deum misericordem existentem hiis qui sunt in terra, ex propria et naturali bonitate.
+          Ipsum ad nos venire propter amorem hominum dignatum et uniendo ipsi ad similitudinem ignis
+          assimilare unita secundum ipsorum ad deificationem aptitudinem. Quotquot enim receperunt
+          eum, dedit eis potestatem filios Dei fieri his qui credunt in nomine eius, qui non ex
+          sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, etc. Qui autem istorum
+          vere supermundanorum diligit sanctam participationem veniens ad aliquem doctum misteriorum
+          suadet quidem, ipsum ducem fieri vie ad ierarcham. Ipse autem se totaliter obsecuturum
+          promittit his que tradentur; et rogat et adducdonis ipsius et universe secure vite
+          magisterium recipere. Illum, salvationem quidem illius sancte amantem, sed ad rei
+          altitudinem contra metientem humanum, fremitus quidem subito et stupor circundat. Postremo
+          autem se facturum tamen quod petitum est, benigne confitetur et adsumens ipsum agit ad
+          denominatum Ierarcham.
+        </p>
+        <p xml:id="pdeh-c2-d1e135">
+          Ille vero, sicut super humeros cum letitia ovem recipiens virum, veneratur quidem prius
+          per intellectualem gratiarum actionem et corporalem adorationem unum, cuius est bonum
+          operari principium, a quo vocantur et salvantur qui salvantur. Deinde omnem sanctum
+          ornatum ad cooperationem quidem viri salvationis et sollempnitatem et gratiarum actionem
+          divine bonitati ad sanctum chorum congregans, in principio quidem ymnum quendam in
+          eloquiis positum simul cum omnibus Ecclesie plenitudinibus decantat. Post hec sanctam
+          osculatus mensam ad virum presentem procedit et querit ab ipso quid volens venit. Illo
+          autem cum Dei amore, secundum susceptoris traditionem, accusante ignorantiam vere pulchri,
+          a divina cura cessationem, rogante autem, ipsius per sanctam mediationem, Deum et divina
+          consequi, testificatur quidem ipsi debitum totalem fieri accessum sicut ad perfectissimum
+          et inmaculatum existentem Deum. Et que in Deo est, ipsi conversationem recitans et
+          interrogans an ita sit conversaturus, post confessionem inponit ipsius capiti manum et
+          signans precipit sacerdotibus describere virum et susceptorem. Qui cum descripserint,
+          orationem sanctam facit et hanc cum universa cum ipso Ecclesia conplevit, solvit quidem
+          ipsum et exuit per ministros. Deinde statuens, vel sternens, ad occidentem attendentem et
+          manus inpingentem ad eandem conversas regionem, precipit quidem ipsi exsufflare ter sathan
+          et amplius ea que sunt abrenuntiationis, confiteri. Et ter abrenuntiationem ipsi
+          testificatus; postquam confessus fuerit ter, ipsum traducit ad orientem et ad celum
+          respicientem extendentem precipit coordinari Christo et omnibus a Deo traditis sanctis
+          eloquiis.
+        </p>
+        <p xml:id="pdeh-c2-d1e138">
+          Cum autem hic et hoc fecerit, testificatur ipsi ter confessionem. Et rursus ipso ter
+          confesso, orans benedicit et manu tenet. Et perfecte cum exuerint eum ministri, portant
+          quidem sacerdotes unctionis oleum sanctum. Ille vero unctionem per trinam signationem
+          incipiens, de cetero sacerdotibus virum ungere per totum corpus tradens, ipse ad matrem
+          filiorum positionis venit. Et tunc aquam sanctis invocationibus cum sanctificaverit, et
+          tribus sanctissimi unguenti ad modum crucis effusionibus ipsam perfecerit, et in unguenti
+          sanctissimis inmissionibus equali numero sanctam melodiam inspirationis Deo acceptorum
+          prophetarum simul supernuntiaverit, precipit virum apportari et cum quidam sacerdotum ex
+          descriptione et ipsum et susceptorem predicaverit, ille quidem a sacerdotibus in aqua
+          agitur ad Ierarche manum ab ipsis manuactus.
+        </p>
+        <p xml:id="pdeh-c2-d1e142">
+          Ierarcha vero desuper stans clamantibus rursus sacerdotibus ad Ierarcham in aqua nomen
+          eius qui perficitur, ter quidem ipsum baptizat, tribus eius qui perficitur, depositionibus
+          et elevationibus trinam divine beatitudinis superclamans personam; et assumentes illum
+          sacerdotes tradunt adductionis susceptori et duci. Qui et cum ipso circumponentes vestem
+          ei qui perficitur, convenientem, ad Ierarcham rursus agunt. Ille vero deificentissimo
+          unguento virum signans participem decernit perfectissime Eucharistie. Hec autem ubi
+          perfecerit, a processu ad secunda, rursus ad priorum extenditur contemplationem, sicut
+          nullo tempore aut modo, in alieno quodam preter propria conversus sed a divinis ad divina
+          attente et semper thearchico spiritu transductus.
+        </p>
+        <p xml:id="pdeh-c2-d1e145">
+          Hec quidem est, sicut in signis, sancte perfectio Dei generationis, nichil inconveniens,
+          aut inmundum, neque sensibilium habens ymaginum, sed digne Deo contemplationis enigmata,
+          naturalibus et homines decentibus speculis ymaginata. Quid enim videatur peccare, et si
+          divinior eorum sermo que fiunt, taceatur persuasibilitate et contemplatione accedentis
+          bonam vitam sancte negociata et universe simul malitie purgationem per virtutum vitam et
+          divinam per aquam naturali purgatione corporaliter ipsi denuntians? Hec est igitur eorum
+          que fiunt, significativa traditio et si nichil divinius haberet, non inmunda esset, ut
+          arbitror, doctrinam quidem bene posite vite inducens; perfectam autem purgationem
+          conversationis que fuit in malitia totaliter corpore mundato naturaliter per aquam
+          significans. Sed sit quidem hec imperfectis introductiva anime actio ad ierarchica et
+          uniformica multitudine, sicut est fas, distinguens et conmetiens particularibus
+          ordinationibus convenientem actionem. Nos autem assensionibus sanctis ad eorum que fiunt,
+          principia respicientes et ista sancte docti cognoscemus, quorum caracterum sunt
+          expressiones, et quorum occultorum ymagines. Nam sicut in negotio De intellectualibus et
+          sensibilibus plane enuntiatum est, quedam quidem sensibiliter sancta sunt intelligibilium
+          ymagines et ad ipsa introductio et via. Intelligibilia vero sensibilium ierarchicorum
+          principium et scientia.
+        </p>
+        <p xml:id="pdeh-c2-d1e148">
+          Dicimus igitur quod est divine beatitudinis bonitas, semper secundum eadem et eodem mode
+          habens proprii luminis bonum operantes radios copiose effundens ad omnes intellectuales
+          visiones. Sive igitur recedat ab intelligibili lumine intellectualium spontanea propria
+          potestas, malitie amore claudens naturaliter insitas ipsi ad illuminandum virtutes,
+          suspenditur a presenti ipsi lumine non recedente sed supersplendente ipsi oculos claudenti
+          atque averse ab occurrente benigne: sive supersiliat terminos visibilis mensurate ipsi
+          dati et ad splendores qui sunt super visionem ipsius, contra inspicere audacter conetur,
+          lumen quidem operabitur preter ea que sunt luminis, nichil. Ipsa autem perfectis
+          imperfecte se ingerens, que non sunt propria quidem non consequetur. Id autem quod est
+          secundum mensuram inornate contempnens, per se ipsam eo privabitur. Verum quod dixi
+          benefice semper intellectualibus visionibus divinum lumen est extentum et est ipsis sumere
+          de presente ipso et semper ad convenientem propriorum traditionem existente paratissimo.
+        </p>
+        <p xml:id="pdeh-c2-d1e151">
+          Ad hanc divinus Ierarcha inmitationem figuratur, luciformes ipsius divine doctrine
+          splendores copiose ad omnes extendens et accedentem illuminare ad Dei inmitationem
+          paratissimus existens, non invidia nec inmundo furore de priore apostasia aut
+          intemperantia usurus sed divine semper accedentibus per ipsius illuminationes ierarchice
+          illucens in bono ornatu et ordinatione et proportione conmensurationis uniuscuiusque ad
+          sancta.
+        </p>
+        <p xml:id="pdeh-c2-d1e154">
+          Sed si bone ordinationis principium est, secundum quod sui ipsarum cognitrices sancte
+          mentes, qui ad proprium visibile nature recurrit, in principio quidem quis ipse est,
+          videbit et hoc sumet ex respectu ad lumen primum sanctum donum. Qui autem propria bene non
+          conpatientibus oculis inspexerit, ab obscuris quidem claustris ignorantie recedet, Dei
+          autem perfectissimam unitionem et participationem inperfectus ipse existens non per se
+          concupiscet, paulatim vero per ea que sunt priora ipso, ad amplius priora et per illa ad
+          prima; et perfectus ad summitatem thearchicam in ordine et sancte sursumagetur. Huius est
+          bene ornate et sancte ordinationis sicut ymago accedentis verecundia at eorum que sunt
+          secundum ipsum cognitio et via ad Ierarcham susceptorem habens ducem.
+        </p>
+        <p xml:id="pdeh-c2-d1e157">
+          Ita sursumactum divina beatitudo ad sui ipsius participationem recipit et de proprio
+          lumine sicut quodam signo ipsi tradit, divinum faciens et communicatorem et in Deo
+          manentium adimpletionis et sancte ordinationis. Quorum est signum sanctum ad Ierarcham
+          accedenti data signatio et sacerdotum salutaris descriptio, his qui salvantur, ipsum
+          connumerans et memoralibus sanctis reponens in in ipso et susceptorem sicut vivifice ad
+          veritatem ambulationis. Hunc quidem amatorem verum et sequacem ducis in Deo manentis,
+          illum vero certum sequentis manuductorem ducatibus a Deo traditis. Sed non est summe
+          contrariis simul participare, neque communionem quandam ad unum habentem divisibiles
+          habere vitas, si ab unius obtinetur forti participatione sed esse teneri inpotentem et
+          inordinabilem in omnibus ab uniformi divisionibus.
+        </p>
+        <p xml:id="pdeh-c2-d1e161">
+          Quod signorum tradltio sancte significans, accedentem sicut priori vita exuens, et usque
+          ad ultimas habitudines illius solvens, nudum et discalciatum statuit ad occidentem
+          aspicientem et manuum inpactione obscure malitie exprobantem communiones, et ingenitum
+          ipsi dissimilitudinis habitum, sicut exsufflantem, et totales confessum abrenuntiationes
+          ad deiformis contrarium. Ita perfccte inponentem teneri ipsum et incommunicabilem factum,
+          ad orientem traducit in divino lumine, et stativum et respectivum fore munde inperfecta a
+          malitia recessione denuntians et sanctas ipsius uniformis facti totalis consensus ad unum
+          confessiones cum amore veritatis recipiens.
+        </p>
+        <p xml:id="pdeh-c2-d1e164">Sed est manifesfum alicubi, ut arbitror, ierarchicorum peritis quod assiduis in
+          fortitudine ad unum surrectionibus et contrariorum totalibus mortificationibus et
+          consumptionibus invariabile deiformis habitus firmant intellectualia. Non enim solum
+          recedere oportet a malitia universa, sed et viriliter inflexibilem esse et intentum esse
+          ne perdita submittatur ad ipsam. Neque in fine sancti amoris veritatis aliquando fieri,
+          sed attente et eternaliter ad ipsam secundum virtutem extendi ad perfectiorem thearchie
+          sursumactionem sancte semper negotiantem.
+        </p>
+        <p xml:id="pdeh-c2-d1e167">
+          Vides autem istorum manifestas ymagines in hiis que ierarchice sunt. Nam deiformis quidem
+          Ierarcha incipit sanctam unctionem. Sacerdotes vero in ipso perficiunt sanctam operationem
+          ad sanctos agones in figura eum qui perficitur, evocantes. In quibus superpositore
+          certaminum Christo factus, quoniam sicut Deus, est certaminum positionis creator, sicut
+          sapiens autem leges eius posuit, operatus est autem ut pulcher convenientia vincentibus
+          premia, et quod est adhuc divinius, quoniam sicut bonus, in certatoribus factus est, cum
+          ipsis sancte pro ipsorum libertate et victoria adversus mortis et corruptionis certans
+          potestatem certaminibus quidem sicut divinus qui perficitur super veniat gaudens:
+        </p>
+        <p xml:id="pdeh-c2-d1e170">
+          Manebit autem in sapientis lationibus legis et secundum ipsas intransgressibiliter
+          certabit ad pulchrorum premiorum spem, fortiter se habens sub bono certaminum positionis
+          domino et duce ordinatus. Superveniens autem divinis vestigiis certatoris primi propter
+          bonitatem ad Dei inmitationem certaminibus luctans contra contrarias sibi ad deificationem
+          et operationes et essentias ut mistice dicatur, cum Christo moritur peccato secundum
+          baptismum. Et michi prudenter intende, cum quanta familiaritate habent se sancta signa.
+          Etenim quoniam mors in nobis est, non substantie consumptio secundum quod videtur sed
+          unitorum discretio, ad nobis occultum agens, animam quidem sicut in privationem corporis
+          invisibilem factam, corpus vero sicut in terra coopertum aut secundum aliam quandam
+          corporalium variationem ex visione secundum hominem occultatum, proprie per aquam
+          totaliter cooperitio ad mortis et sepulchri invisibilis ymaginem accepta.
+        </p>
+        <p xml:id="pdeh-c2-d1e173">
+          Igitur sancte baptizatum significativa doctrina docet tribus in aqua depositionibus et
+          elevationibus thearchicam trium dierum et noctium sepulcri Ihesu vite datoris inmitari
+          mortem sicut est possibile hominibus Dei inmitativum. In quo secundum verbi misticam et
+          occultam traditionem nichil invenit mundi princeps. Deinde autem luciformes vestes inponit
+          ei qui perficitur. Etenim materiali et deiformi contrariorum inpassibilitate et consensu
+          ad unum in fortitudine inornatum ornatur et informe formificatur luciformi universaliter
+          vita splendidum factum. Unguenti vero perfectiva unctio bene olentem facit perfectum.
+          Etenim sancta Dei generationis perfectio unit perfectum ierarchico spiritui.
+          Intelligibiliter autem bene olere facientem perfectivum superadventum ineffabilissimum
+          existentem cognoscere intellectualiter dimitto dignis habitis sancta et deifica communione
+          divini spiritus in mente. In fine vero omnium Ierarcha ad sanctissimam eucharistiam vocat
+          perfectum et de conmunione perfectivorum misteriorum ipsi tribuit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
